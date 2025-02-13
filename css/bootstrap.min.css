@@ -8287,6 +8287,10 @@ fieldset:disabled .btn {
     color: #D81324 !important
 }
 
+.text-blue {
+    color: #0000ff;
+}
+
 .text-secondary {
     color: #0B2154 !important
 }
